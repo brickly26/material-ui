@@ -6,7 +6,7 @@ import Posts from "./Post";
 
 const Feed = () => {
   return (
-    <Box bgcolor="pink" flex={4} p={2}>
+    <Box flex={4} p={2}>
       <Posts />
       <Posts />
       <Posts />
